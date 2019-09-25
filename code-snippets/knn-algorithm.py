@@ -22,3 +22,10 @@ for i in range(len(x)):
 
 # print(d)
 print(d[0],d[1],d[2])
+
+print()
+
+print("The required three points are:")
+print(x[0],',',y[0])
+print(x[1],',',y[1])
+print(x[2],',',y[2])
