@@ -10,7 +10,7 @@ We have integrated Linear Regression algorithm and KNN algorithm
 Based on the integration we have created our own model
 
 References:
-Geeks for Geeks
-YouTube
-Edureka
+Geeks for Geeks,
+YouTube,
+Edureka,
 Etc.
